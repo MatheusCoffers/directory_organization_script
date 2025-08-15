@@ -4,7 +4,8 @@ This script sovels your download folder problem creating folders related to the 
 
 
 ## How to use
-- Clone this repository and star venv in your terminal to get the dependencies of the project
+- Clone this repository
+- change the path on "directory_to_organize" variable to your download folder path 
 - run the script organization_script.py
 - be happy
 
